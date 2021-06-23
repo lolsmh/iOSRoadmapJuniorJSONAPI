@@ -1,7 +1,82 @@
-{
-  "user 1": {
-      "profile_image_url" : "",
-      "name" : "Жопа",
-      "surname" : "с Ручкой"
-  }
-}
+[
+   {
+      "user":{
+         "nickname":"Annie Hall",
+         "avatar_url":"https://s3-eu-west-1.amazonaws.com/builds.getmobileup.com/storage/MobileUp-Test/1.png"
+      },
+      "message":{
+         "text":"Speaking of which, Peter really wants you to come in on Friday to chat about",
+         "receiving_date":"2020-10-14T08:40:20+0000"
+      }
+   },
+   {
+      "user":{
+         "nickname":"Jodee Furrow",
+         "avatar_url":"https://s3-eu-west-1.amazonaws.com/builds.getmobileup.com/storage/MobileUp-Test/2.png"
+      },
+      "message":{
+         "text":"Jared's been back from that island for a whole day and he didn't get any toilet",
+         "receiving_date":"2020-10-14T06:42:14+0000"
+      }
+   },
+   {
+      "user":{
+         "nickname":"Jane Smith",
+         "avatar_url":""
+      },
+      "message":{
+         "text":"Why are there so many? You know how sea turtles have a shit-ton of babies",
+         "receiving_date":"2020-10-13T10:22:21+0000"
+      }
+   },
+   {
+      "user":{
+         "nickname":"Karl Nyland",
+         "avatar_url":"https://s3-eu-west-1.amazonaws.com/builds.getmobileup.com/storage/MobileUp-Test/3.png"
+      },
+      "message":{
+         "text":"Both of them.",
+         "receiving_date":"2020-10-13T10:12:14+0000"
+      }
+   },
+   {
+      "user":{
+         "nickname":"Jack Ahlers",
+         "avatar_url":"https://s3-eu-west-1.amazonaws.com/builds.getmobileup.com/storage/MobileUp-Test/4.png"
+      },
+      "message":{
+         "text":"I think it's because the pixels change value differently",
+         "receiving_date":"2020-10-12T16:27:21+0000"
+      }
+   },
+   {
+      "user":{
+         "nickname":"Ehtel Wolfram",
+         "avatar_url":""
+      },
+      "message":{
+         "text":"Because the whole house smells like a bait station.",
+         "receiving_date":"2020-10-12T09:50:12+0000"
+      }
+   },
+   {
+      "user":{
+         "nickname":"Talitha Stinger",
+         "avatar_url":"https://s3-eu-west-1.amazonaws.com/builds.getmobileup.com/storage/MobileUp-Test/5.png"
+      },
+      "message":{
+         "text":"That's clear.",
+         "receiving_date":"2020-10-08T18:49:08+0000"
+      }
+   },
+   {
+      "user":{
+         "nickname":"Bill Anderson",
+         "avatar_url":"https://s3-eu-west-1.amazonaws.com/builds.getmobileup.com/storage/MobileUp-Test/6.png"
+      },
+      "message":{
+         "text":"We had a meth addict in here this morning who was biologically younger",
+         "receiving_date":"2020-10-04T10:56:06+0000"
+      }
+   }
+]
