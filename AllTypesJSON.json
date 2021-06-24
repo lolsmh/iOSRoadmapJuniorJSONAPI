@@ -12,10 +12,10 @@
     "zero", "one", "two", "three"
   ],
   "dictionaryArray": [
-    {
+    "first": {
       "lolcmh": 42
     },
-    {
+    "second": {
       "danyaffff": 69
     }
   ],
