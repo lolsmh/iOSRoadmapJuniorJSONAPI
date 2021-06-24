@@ -35,6 +35,9 @@
   "arrayDictionary": {
     "array": [
       "1337", "14"
+    ],
+    "nextArray": [
+      "number", "oooooo"
     ]
   },
   "dictionaryDictionary": {
