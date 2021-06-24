@@ -11,14 +11,6 @@
   "stringArray": [
     "zero", "one", "two", "three"
   ],
-  "dictionaryArray": [
-    "first": {
-      "lolcmh": 42
-    },
-    "second": {
-      "danyaffff": 69
-    }
-  ],
   "intDictionary": {
     "zero": 0,
     "one": 1,
