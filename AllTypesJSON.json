@@ -1,0 +1,47 @@
+{
+  "number": 1.9,
+  "bool": true,
+  "string": "Swift",
+  "intArray": [
+    0, 1, 2, 3, 5.5
+  ],
+  "boolArray": [
+    true, false
+  ],
+  "stringArray": [
+    "zero", "one", "two", "three"
+  ],
+  "dictionaryArray": [
+    {
+      "lolcmh": 42
+    },
+    {
+      "danyaffff": 69
+    }
+  ],
+  "intDictionary": {
+    "zero": 0,
+    "one": 1,
+    "two": 2
+  },
+  "boolDictionary": {
+    "true": true,
+    "false": false
+  },
+  "stringDictionary": {
+    "key": "value",
+    "anotherKey": "anotherValue"
+  },
+  "arrayDictionary": {
+    "array": [
+      "1337", "14"
+    ]
+  },
+  "dictionaryDictionary": {
+    "outerDictionary": {
+      "innerDictionary": {
+        "key": "value"
+      }
+    }
+  }
+}
